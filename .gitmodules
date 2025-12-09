@@ -1,0 +1,6 @@
+[submodule "Cursor-project/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection"]
+	path = Cursor-project/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection
+	url = https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection.git
+[submodule "Cursor-project/pyramid_saliency"]
+	path = Cursor-project/pyramid_saliency
+	url = https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection.git
