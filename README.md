@@ -25,4 +25,4 @@ This repository consists of 2 small experiments to test out 3 differents AI-powe
 - ./material/ includes the original material we gave to the chatbot.
 
 ## Further information
-Please visit the LLM technical meeting wiki page for more details about the experiment and the results: [link] [https://wiki.eduuni.fi/spaces/CSCAIDA/pages/546035595/Language+Model+Technical+Meetings+Agenda+and+Topic+Suggestions]
+Please visit the LLM technical meeting wiki page for more details about the experiment and the results: https://wiki.eduuni.fi/spaces/CSCAIDA/pages/546035595/Language+Model+Technical+Meetings+Agenda+and+Topic+Suggestions
